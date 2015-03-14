@@ -1,0 +1,10 @@
+{
+  "name": "Playground",
+  "description": "",
+  "env": {
+    "INTEGRATION_USER_NAME": "",
+    "INTEGRATION_USER_PASSWORD": "",
+    "CONNECTED_APP_ID": "",
+    "CONNECTED_APP_SECRET": ""
+  }
+}
